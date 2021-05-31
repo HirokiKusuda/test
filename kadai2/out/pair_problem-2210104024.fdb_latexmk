@@ -1,9 +1,0 @@
-# Fdb version 3
-["dvipdf"] 0 "out/pair_problem-2210104024.dvi" "out/pair_problem-2210104024.pdf" "out/pair_problem-2210104024" 0
-  "out/pair_problem-2210104024.dvi" 0 -1 0 "latex"
-  (generated)
-  "out/pair_problem-2210104024.pdf"
-["latex"] 1621589858 "e:/AEC/kadai2/pair_problem-2210104024.tex" "out/pair_problem-2210104024.dvi" "pair_problem-2210104024" 1621589858
-  (generated)
-  "out/pair_problem-2210104024.dvi"
-  "out/pair_problem-2210104024.log"
